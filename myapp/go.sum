@@ -1,0 +1,4 @@
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
+github.com/ussidev/libussi v1.0.0 h1:x+F5RnelWnQXLZ6ah+c1yooLRqjUMonbTjSmhdfeO4k=
+github.com/ussidev/libussi v1.0.0/go.mod h1:tv5YtNoHrZp2SoMYMSx9pBkWUDAr6mJw187H4XPfYr0=
